@@ -1,0 +1,10 @@
+App(
+    appid="mouse_jiggler",
+    name="Mouse Jiggler",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="mouse_jiggler_app",
+    stack_size=2 * 1024,
+    fap_category="Tools",
+    fap_description="Continuous USB mouse jiggler. BACK stops.",
+    fap_version="1.2",
+)

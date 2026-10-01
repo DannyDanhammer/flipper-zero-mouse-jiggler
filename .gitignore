@@ -1,0 +1,16 @@
+# uFBT / build output
+build/
+dist/
+.ufbt/
+.vscode/
+*.o
+*.elf
+*.map
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
