@@ -1,4 +1,4 @@
-# Flipper Zero Mouse Jiggler
+# Dannydanhammers Flipper Zero Mouse Jiggler
 
 A native Flipper Zero USB HID mouse jiggler for Windows hosts.
 
